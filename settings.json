@@ -57,7 +57,6 @@
   "workbench.startupEditor": "none",
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "material-icon-theme",
-  "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
   "gitlens.hovers.currentLine.over": "line",
   "livePreview.customExternalBrowser": "Chrome",
@@ -66,7 +65,7 @@
     "javascript": "javascriptreact"
   },
   "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "explorer.confirmDelete": false,
   "code-runner.clearPreviousOutput": true,
@@ -87,5 +86,7 @@
   // use Mocha as the base
   "workbench.colorTheme": "Catppuccin Mocha",
   // pink as the accent color
-  "catppuccin.accentColor": "pink"
+  "catppuccin.accentColor": "pink",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
