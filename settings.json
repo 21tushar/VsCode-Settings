@@ -12,7 +12,7 @@
   "editor.fontVariations": false,
   "editor.fontWeight": "600",
   "extensions.autoUpdate": false,
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "terminal.external.linuxExec": "kitty",
   "terminal.explorerKind": "both",
   "terminal.sourceControlRepositoriesKind": "both",
