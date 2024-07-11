@@ -78,7 +78,7 @@
   "workbench.preferredLightColorTheme": "Catppuccin Mocha",
   "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
   "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
-  "terminal.integrated.fontFamily": "'Fira Code'",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   // we try to make semantic highlighting look good
   "editor.semanticHighlighting.enabled": true,
   // prevent VSCode from modifying the terminal colors
