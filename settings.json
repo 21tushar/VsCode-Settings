@@ -1,5 +1,6 @@
 {
   "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "custom",
   "editor.fontSize": 16,
   "editor.scrollbar.vertical": "hidden",
   "editor.scrollbar.verticalScrollbarSize": 0,
@@ -88,5 +89,5 @@
   // pink as the accent color
   "catppuccin.accentColor": "pink",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
 }
